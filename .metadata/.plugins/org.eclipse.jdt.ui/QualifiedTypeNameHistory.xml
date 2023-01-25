@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="addtostart.LinkedList"/>
+    <fullyQualifiedTypeName name="addtostart.LinkedList.ListNode"/>
+    <fullyQualifiedTypeName name="addtotheendll.LinkedList"/>
+    <fullyQualifiedTypeName name="org.w3c.dom.Node"/>
+    <fullyQualifiedTypeName name="addtotheendll.LinkedList.NodeMon"/>
+    <fullyQualifiedTypeName name="org.w3c.dom.NodeList"/>
+    <fullyQualifiedTypeName name="LinkedList.ListNode"/>
+    <fullyQualifiedTypeName name="LinkedList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="removelastLL.LinkedList.Listnode"/>
+    <fullyQualifiedTypeName name="removefromspecific.LinkedList.ListNode"/>
+    <fullyQualifiedTypeName name="LinkedList.Listnode"/>
+    <fullyQualifiedTypeName name="pll.LL.ListNode"/>
+    <fullyQualifiedTypeName name="stack.Stack.ListNode"/>
+    <fullyQualifiedTypeName name="java.util.EmptyStackException"/>
+    <fullyQualifiedTypeName name="stack.Stack"/>
+    <fullyQualifiedTypeName name="java.lang.Character"/>
+    <fullyQualifiedTypeName name="java.util.Stack"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="ReverseString"/>
+    <fullyQualifiedTypeName name="Queue.ListNode"/>
+    <fullyQualifiedTypeName name="Queue"/>
+</qualifiedTypeNameHistroy>

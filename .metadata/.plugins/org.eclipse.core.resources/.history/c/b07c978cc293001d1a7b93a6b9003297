@@ -1,0 +1,45 @@
+package pll;
+
+public class LL {
+	
+
+	private static class ListNode{
+		
+		int data;
+		ListNode next;
+		
+		public ListNode(int data) {
+			// TODO Auto-generated constructor stub
+			this.data=data;
+			this.next=null;
+		}
+		
+	}
+	public static void print(ListNode ll) {
+		ListNode current=ll;
+		
+		while(current!=null) {
+			System.out.print(current.data+"--->");
+		}
+		System.out.print("null");
+	}
+	
+	
+	public static void main(String[] args) {
+		
+		ListNode head=new ListNode(5);
+		ListNode second=new ListNode(6);
+		ListNode third=new ListNode(7);
+		ListNode fourth=new ListNode(8);
+		
+		head.next=second;
+		second.next=third;
+		third.next=fourth;
+		
+		print(head);
+		
+		
+		
+	}
+	
+}
